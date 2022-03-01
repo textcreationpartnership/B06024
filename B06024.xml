@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the inhabitants of the whole earth, I thus write in the name, and power, and dread of the Lord God.</title>
+            <author>Swinton, John, 1621?-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06024</idno>
+            <idno type="STC">Wing S6288A</idno>
+            <idno type="STC">ESTC R184767</idno>
+            <idno type="EEBO-CITATION">52529013</idno>
+            <idno type="OCLC">ocm 52529013</idno>
+            <idno type="VID">179127</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06024)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179127)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2777:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the inhabitants of the whole earth, I thus write in the name, and power, and dread of the Lord God.</title>
+                  <author>Swinton, John, 1621?-1679.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Scotland? :</pubPlace>
+                  <date>Printed in the year 1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Suggested country of publication from Wing.</note>
+                  <note>Printed in two columns.</note>
+                  <note>Consists of two sermons. First sermon signed: J. Swinton; second sermon signed: J. S.</note>
+                  <note>A plea to the public to lead Christian lives.</note>
+                  <note>Imperfect: tightly bound, torn with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Sermons --  Protestant authors --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179127:1" rendition="simple:additions"/>
+            <head>To the Inhabitants of the whole Earth, I Thus write in the Name, and power, and dread of the Lord God.</head>
+            <div type="part">
+               <opener>
+                  <salute>OH all ye Sons and Daughters of Men,</salute>
+               </opener>
+               <p>come down, come down to the Witneſs of God in your hearts, even that which reproveth you in ſecret, and ceaſe from all things elſe, as ever you would know the way, the path of peace and bleſſedneſs, and be delivered from eter<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ery, ſorrow, vexation, torment and deſolation. Oh ceaſe, ceaſe all ye <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> guides, to miſlead the Sons and Daughters of Men, by perverting the <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpotleſs, innocent, certain, ſure, ſafe, (though narrow) way of God; <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e way is but one, and the way is near, is brought near to every one, and <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e little ſeed of Righteouſneſs, the Word near and in the heart. Oh <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſoarers, ye comprehenders, ye towrers, ye fathomers, ye ſtretchers, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>merers, ye toolers, ye gravers, ye makers of Images, ye <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urderers in <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arkned minds and imaginations therein, ceaſe from all the works of <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn hands, and come down, come down to the witneſs, the lowly lit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>d of Righteouſneſs near and in each of your hearts. Oh ceaſe ye luſt<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ellious ones, who are purſuing a ſhadow, and miſerable diſappointed <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> all, who luſt to have, and the more you have the more you want: Come <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> come down to the witneſs of God in you, near and in your <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that ſometimes brings you to judgment, and lets you ſee the end of <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ſe things is death and miſery. Oh ye painted Harlots, who are gone <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o deceive the Inhabitants of the Earth, come down, come down to <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itneſs and give up, and confeſs that there is a lie in your right hand, for <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>y of the Lord God doth diſcover you all, and hid you can no longer <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the birth is born that cannot be deceived, and a ſwift witneſs the Lord <gap reason="illegible" resp="#KEYERS" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s, and will yet more abundantly be againſt all unrighteouſneſs and de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>nd whoſoever, whatſoever will not bow to this day of his appearance, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e brought forth with the workers of iniquity, and ſlain in and by his <gap reason="illegible" resp="#KEYERS" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ce and brightneſs of his Coming, before which, no fleſh nor nothing <gap reason="illegible" resp="#KEYERS" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>of can ſtand or live. Oh the dreadful, terrible aſtoniſhing day of God <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at hand, to be revealed againſt all unrighteouſneſs, all manner of un<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ouſneſs and deeds of darkneſs. Therefore come down all ye Sons and <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f what degree, quality or condition ſoever ye be, (for <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> God is no reſpect of perſons) come to the Witneſs of God near and <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> your hearts, and be not ſtout or rebellious againſt his Word, his Light, his Witneſs near and in your hearts; come down I ſay to this, and give up the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ranſgreſſor, even all that the light of Chriſt near and in your hearts witneſſ<g ref="char:EOLhyphen"/>eth againſt, elſe miſery, deſolation and torment ſhall be your portion in the lake that burns for ever.</p>
+               <closer>
+                  <dateline>
+                     <date>The 8th. of the 10th. Month, 1665.</date>
+                  </dateline>
+                  <signed>J. Swinton.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:179127:2"/>
+               <opener>
+                  <salute>FRIENDS,</salute>
+               </opener>
+               <p>ALL you that think and ſay and maintain it as your Principle, that you muſt be ſinners for term of life, ſo as you cannot ceaſe from ſining, do <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not with open face proclaim that you are in unbelief, ignorant of the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mb of God that takes away the ſins of the World, and of his blood that <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>anſeth from all ſin, and of the truth that ſets free indeed, is not this the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>octrine of Devils that ſaves the Devils head and Kingdom, and makes pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſion for the fleſh to fulfill the luſts thereof, ſo as to make the Covenant with Hell and Death ſtrong, ſo as even to be at agreement with Hell &amp; Death; is not he that is and was in the Saints, ſtronger then he that was in the World and is not the ſtrong Man to be caſt out? Oh Friends, you have erred in Councel, you have ſtumbled in Judgment, you have perverted and do, the right, upright, ſpotleſs, perfect way of God, and have brought it down to your carnal fleſhly imaginations, to ſave the enemies head, the Devils King<g ref="char:EOLhyphen"/>dom in you. And I am a Witneſs for God againſt you all, that his way is perfect; and all that come in the leaſt meaſure of truth to witneſs it; ſhall witneſs it to be a perfect way (and they know nothing of the way of God, who are affraid of perfection, or that can be ſatisfied to ſit down below it) waiting in ſimplicity and fear to be perfectly redeemed, afraid to fall ſhort of it, or to ſit down by the way, or turn aſide from it, returning to the pud<g ref="char:EOLhyphen"/>dle or vomit, and where he comes to rule whoſe right it is, he puts an end to ſin and ſinings, and brings in everlaſting Righteouſneſs, in which there is no
+<pb facs="tcp:179127:1" rendition="simple:additions"/> ſin; but breaks the Covenant with Hell and Death, and makes ſtrait ſteps, and ſpares not one hoof, makes more then Conquerors; ſo as the enemy comes to be ſought for and cannot be found, and gives perfect peace, reſt, his Enemies being made his footſtool, every thought and imagination and deſire reduced, perfectly reduced into the obedience of truth. But you are all ignorant of this, and cannot be otherwaies, all you whoſe minds are wander<g ref="char:EOLhyphen"/>ed, erred, gone from the meaſure of the truth, the Light of Chriſt each in your ſelves not only with evil deeds and practices, burdening the ſame, have<g ref="char:EOLhyphen"/>ing ſlain the juſt in you, but alſo with open face oppoſing, denying, gainſaying, the in-being thereof, being paſt all feeling, or if there-through ye have any gripings or ſtings, and checks or reproofs, ſo as ſometimes to be brought under condemnation thereby, you (through the help of your blind guides) call a natural inſufficient thing, notwithſtanding your experience, and the plain clear teſtimony for it in the Scriptures of truth. Oh Friends, you can<g ref="char:EOLhyphen"/>not know perfection but in and through this, even as you come to the mea<g ref="char:EOLhyphen"/>ſure of truth in your own particulars, this is the perfect way, and leads out of imperfection, out of the ſin and blot in the root and branches thereof all that come to it, ſo as to love it and give up to it, ſo as to abide in it, ſo as not to go out from it, makes free indeed, perfectly redeems, even to be with<g ref="char:EOLhyphen"/>out ſpot or wrinkle, or any ſuch thing, makes the Conſcience free and clear, and void of offence towards God and all men, and whatever hath been comes to be caſt behind into a Land of forgetfulneſs, never more to be remembred, ſo as the perfect peace comes to be witneſſed, and the perfect peace canno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> witneſſed, where the perfect freedom from ſining is not witneſſed, but all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that are erred from the meaſure of the true Light that lighteth each of you in your particulars, and are oppoſing, gainſaying and blaſpheming this Light of Chriſt, near and in your heart, calling it Natural and inſufficient; you are affraid of perfection, freedom from ſining, and do not, will not come to the Light becauſe your deeds are evil, and the Covenant with Hell and Death is ſo ſtrong, even ſo ſtrong, as you love your bonds, and love death more then life, Sin more then Righteouſneſs; therefore are you cut off from the Light and Land of the Living, even that which is the Poſſeſſion, the Inherit<gap reason="illegible" resp="#KEYERS" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> of the Saints, the ſanctified ones, the Children of the Light in this hour therefore ſhall ye die in your ſins, being driven into darkneſs, wallowing in the mire, the ſervants of Corruption in the midſt of all your ſwelling wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds and imaginations, and profeſſion out from the Light, the meaſure of truth, the Spirit given to every one to profit with all, though you have no profit by it through your gainſaying and oppoſing, in the love of iniquity and ſenſuali<g ref="char:EOLhyphen"/>ty. But the day of the Lord is over you all, and you are ſeen and cannot be hid, and the teſtimony of truth is againſt you all, in your way and ſpirit, and
+<pb facs="tcp:179127:2"/> fruit, and whole converſation as being out of the Covenant of Light and truth in thoughts and imaginations wandering in the darkneſs of your minds, your bonds made ſtrong through gainſaying and oppoſition to the teſtimony of this hour wherein your healing and redemption and recovery lies, and God hath followed you long, and his long ſuffering hath been greatly exerciſed towards this Generation; but they harden their hearts againſt the day of ſlaughter, notwithſtanding of all that he hath done to recover them, and render them without excuſe, ſo that God is clear of you all, you that with a Braſen face, and wilful, headſtrong mind (in the ignorance and confuſion there<g ref="char:EOLhyphen"/>of,) oppoſe and reject your own mercy, the light of Chriſt his word near and in your hearts that reveals the darkneſs and deeds thereof. I ſay your reco<g ref="char:EOLhyphen"/>very out of the filth, out of the death, out of the condemnation, out of the bonds and fetters of braſs, out of ſorrow and miſery, and vexation, and diſ<g ref="char:EOLhyphen"/>appointment, is in and through it, and in nothing elſe, and as you come to know it and its leadings, ſo as to love it and give up to it, you will know (what ever imaginations ye have hitherto had) that the leadings thereof are perfect leadings, and perfection, freedom indeed ye ſhall come to know, as you come to know what it is thereby to be renewed in the Spirit of your minds, that ſlain that is ſaved alive, while your minds are abroad out from the mea<g ref="char:EOLhyphen"/>ſure of the light, the truth in your own particular veſſel, wandering abroad, but hither you muſt come and return if ever ye come to know the way of perfect peace ſo as to poſſeſſe and dwell in it.</p>
+               <closer>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
